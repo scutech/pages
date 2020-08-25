@@ -1,0 +1,63 @@
+.ehome.ntab li{
+	padding: 14px 10px;
+}
+.ehome .pbox-left{
+	width: auto;
+	float: none;
+}
+.ehome .adv-text p{
+	font-size: 14px;
+	line-height: 22px;
+	text-align: justify;
+}
+.ehome .adv-text h3{
+	font-size: 22px;
+}
+.ehplink {
+	margin-top: 5px;
+}
+.ehplink a{
+	color: #db0011;
+}
+.ehplink a:hover{
+	text-decoration: underline;
+}
+.bga{
+	height: 600px;
+	background: url(../img/ehome/bg1.jpg) center no-repeat;
+    background-size: cover;
+}
+.bga .cont{
+	background: none;
+	padding-bottom: 30px;
+}
+.bga .himg {
+	height: 60px;
+}
+.bga .honor li{
+	margin: 15px 33px;
+}
+.idctext{
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 45px;
+}
+.idctext span{
+	font-size: 35px;
+	color: #ed3b44;
+}
+.ehome .footer,.ehome .footer a{
+	color: #b9b9b9;
+}
+.efoot{
+	padding-bottom: 10px;
+	text-align: center;
+}
+.efoot li{
+	margin: 5px 30px;
+}
+.efbot{
+	padding-top: 10px;
+	text-align: center;
+	border-top: 1px solid #666;
+}

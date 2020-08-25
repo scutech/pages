@@ -1,0 +1,30 @@
+.cname {
+	padding-top: 30px;
+	line-height: 30px;
+}
+.cname h1,.cpoint h1{
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.cname p{
+	font-size: 14px;
+	margin-bottom: 20px;
+}
+.cname .btn{
+	padding: auto 20px;
+	margin-right: 20px;
+}
+.cpoint{
+	margin-top: 30px;
+	line-height: 30px;
+}
+.cpoint p{
+	margin-left: 10px;
+}
+.cposter{
+	margin-top: 30px;
+}
+.cposter img{
+	max-width: 500px;
+}

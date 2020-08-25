@@ -1,0 +1,31 @@
+.imp .abc{
+	background-image: url(../img/imp/DBackup-IMP_01.png);
+}
+.lybox{
+	margin: 30px auto;
+}
+.lytext h2{
+	margin: 15px 0;
+	font-size: 16px;
+	font-weight: bold;
+}
+.lytext p{
+	line-height: 30px;
+}
+.imp .cdmcase-pic{
+	padding: 30px;
+	text-align: justify;
+}
+.imp .cdmcase-pic h2{
+	margin: 20px 0;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+}
+.imp .adv-icon{
+	width: 120px;
+}
+.imp .adv-text{
+	margin-top: 0;
+	margin-left: 140px;
+}
